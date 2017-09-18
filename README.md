@@ -1,2 +1,2 @@
 # Python-Labs
-Practice labs using python 
+Practice labs using Python 
