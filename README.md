@@ -1,2 +1,2 @@
 # Python-Labs
-Practice labs using Python 
+Python Practice labs, research, and guides. 
